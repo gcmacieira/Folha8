@@ -1,5 +1,5 @@
 # Análise do Ficheiro Folha8.
-Este trabalho foi centrado no arquivo principal "Folha8" (que renomeei como "folha" no meu dispositivo, para facilitar na realização de códifo), que continha um grande número de artigos jornalísticos. O nosso objetivo seria analisar esse ficheiro, de acordo com um enunciado que nos foi fornecido, sendo ele o seguinte:
+Este trabalho foi centrado no arquivo principal "Folha8" (que renomeei como "folha" no meu dispositivo, para facilitar na realização de código), que continha um grande número de artigos jornalísticos. O nosso objetivo seria analisar esse ficheiro, de acordo com um enunciado que nos foi fornecido, sendo ele o seguinte:
   1. Calcular o número de publicações;
   2. Calcular a gama de datas incluídas no ficheiro, armazenando-as num ficheiro externo;
   3. Exibir a data mais antiga e a data mais recente;
